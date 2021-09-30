@@ -1,0 +1,7 @@
+2021-09-30/19:42:37		Start : Data_load -> get_data
+2021-09-30/19:42:37		Success : Data loaded
+2021-09-30/19:42:37		Started : Preprocessor -> drop_column
+2021-09-30/19:42:38		Success : Removed column
+2021-09-30/19:42:38		Started : Preprocessor -> encodeCatFeature
+2021-09-30/19:42:38		Success : Preprocessing of categorical vairable
+2021-09-30/19:42:38		Success in the task
